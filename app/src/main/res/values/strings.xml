@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Restaurant</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="neapolitanPizza"> This café favorite is easier to make than you think; simply bring crushed spices, cinnamon sticks, ginger, and milk to a boil, add tea bags, and let steep for 10 minutes.</string>
+    <string name="chicagoPizza"> Simmer apple cider with mulling spices, orange zest, and ginger to make a drink that smells as good as it tastes.</string>
+    <string name="sicilianPizza">Add a touch of ground chipotle and cinnamon to turn up the heat in this winter favorite.  </string>
+    <string name="newYorkPizza">To save time (without sacrificing taste), use your blender to prepare this holiday classic. </string>
+    <string name="greekPizza"> To create this easy version of a hot toddy, mix Frangelico with hot water and top with a dollop of whipped cream.</string>
+
+    <string name="caffèAmericano">This tangy basil-infused drink is made for summer. </string>
+    <string name="caféLatte">Nice , tasty and cold tea </string>
+    <string name="cappuccino">Fresh strawberries are at the heart of these thick , rich and totally decadent frappes</string>
+    <string name="espresso"> Pineapples sweetens the tang of ginger ale</string>
+    <string name="flatWhite">Lemon and mint give zing to bracing black tea</string>
+
+    <string name="saltPepper"> A refreshing way to beat the heat. Throw in some watermelon pieces along with ginger, mint leaves, lemon and lychee topped with lots of ice! </string>
+    <string name="porkShoulder"> A tall glass of refreshing drink with cucumber, kiwi and the zing of Thai ginger. </string>
+    <string name="grilledSteak">The fruit of the summer shines its way into your glass. A lovely blend of mango pulp, lime juice and spices. </string>
+    <string name="chickenSchnitzel">A twist to the popular mango drink, this recipe calls for fresh pineapple pulp which is blended with cumin powder, black salt and lime juice.</string>
+    <string name="drumsticks"> A sweet and tangy mixture of grape juice, lemon chunks and lychees. Overcome the summer heat with this cool mocktail. </string>
+
+    <string name="custards">Pair this sandwich with a fruity, aromatic Gewürztraminer. </string>
+    <string name="frozen">L.A. chef Suzanne Goin (an FW Best New Chef 1999) grew up on the healthy flavors of California cooking and embraces that style in her cooking.</string>
+    <string name="cakes">Rob Evans of Duckfat in Portland, ME, gets his specially made bread from the Standard Baking Company, but he also recommends using focaccia and ciabatta.</string>
+    <string name="cookies"> Except for the olive-oregano relish, all the components of this chicken sandwich are grilled—the chicken, tomatoes, sweet onion and even the bread—making for the ultimate grilled sandwich. </string>
+    <string name="pies">lobster rolls during a recession." At Clover Club, the sliders come two to an order, and are made with freshly baked, scooped-out Parker House rolls.</string>
+
+    <string name="register_text">Create an account to access the menu.\nSign up with Twitter , Facebook or with your email address.</string>
+    <string name="cake1">If you love a moist and creamy cake, this is it. Lemon juice and lemonade give the layers a tangy touch, and the cream cheese frosting with sprinkles makes it pretty.</string>
+    <string name="cake2">This beautiful layered cake has a creamy filling with a mild pumpkin flavor and a little spice. It\'s quick and always turns out so well. The nuts and caramel topping add a nice finishing touch.</string>
+    <string name="cake3">Our family has enjoyed this pretty layered cake for years. It\'s a favorite for many occasions.</string>
+    <string name="cake4">Because I\'m our town\'s postmaster, I can bake only in my spare time. When I do, I especially like this pound cake recipe. This one tastes great as is, or tucked under ice cream and chocolate syrup like a hot fudge sundae!</string>
+    <string name="cake5">Most cake recipes feed a crowd. So we came up with this elegant little cake that serves six. That\'s enough for two…with just the right amount of leftovers!</string>
+
+</resources>
