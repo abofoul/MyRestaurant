@@ -29,6 +29,10 @@ public class DetailsActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.meals_toolbar);
         ImageView cart = toolbar.findViewById(R.id.cart_btn);
         TextView category = toolbar.findViewById(R.id.category);
+        TextView totalPrice = toolbar.findViewById(R.id.total_price);
+        String s = String.valueOf(MealAdapter.totalPrice);
+        s+="$";
+        totalPrice.setText(s);
         category.setText(mealType);
 
         cart.setOnClickListener(new View.OnClickListener() {
